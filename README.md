@@ -10,5 +10,6 @@ BMI 713
 CS 107
 HST .953
 BST 262
+2nd Year Masters Student
 
 
