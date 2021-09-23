@@ -1,4 +1,4 @@
-# Playground - Paolo Pasco
+# Playground - Han Truong & Paolo Pasco
 
 A place to play with `git`.
 
